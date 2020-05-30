@@ -27,7 +27,7 @@ export default function Person() {
         <tr>
           <th>Name</th>
           <th>Height</th>
-          <th>Mass</th>
+          <th>Mass(SSSSS)</th>
           <th>Hair color</th>
           <th>Skin color</th>
           <th>Eye color</th>
